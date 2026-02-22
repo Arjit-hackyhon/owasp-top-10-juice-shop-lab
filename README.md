@@ -81,9 +81,9 @@ Do NOT attempt testing on systems without proper authorization.
 **Arjit Nishad**  
 Cybersecurity Enthusiast | Web Application Pentesting  
 
-🔗 LinkedIn: https://www.linkedin.com/in/arjit-b09695325?utm_source=share_via&utm_content=profile&utm_medium=member_android
-💻 GitHub: https://github.com/Arjit-hackyhon  
-PDF : https://cyberbluepdf.gumroad.com/l/owasp-top-10-fully-practical
+🔗 LinkedIn: https://www.linkedin.com/in/arjit-b09695325?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+💻 GitHub: https://github.com/Arjit-hackyhon   
+PDF : https://cyberbluepdf.gumroad.com/l/owasp-top-10-fully-practical  
 
 ---
 
